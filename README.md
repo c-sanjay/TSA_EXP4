@@ -121,17 +121,22 @@ plt.show()
 ```
 ### OUTPUT:
 #### SIMULATED ARMA(1,1) PROCESS:
+<img width="1184" height="590" alt="image" src="https://github.com/user-attachments/assets/9c1e7263-fb56-4ea3-a31c-65f3ea246ae3" />
 
 #### Partial Autocorrelation
+<img width="1162" height="598" alt="image" src="https://github.com/user-attachments/assets/671fa960-fb64-4f12-a5de-1813a5f116ad" />
 
 #### Autocorrelation
+<img width="1175" height="591" alt="image" src="https://github.com/user-attachments/assets/fbafdf1a-0d52-4cf1-bb3b-ab218cf863f7" />
 
 #### SIMULATED ARMA(2,2) PROCESS:
+<img width="1139" height="589" alt="image" src="https://github.com/user-attachments/assets/74ce3496-ff04-4231-82e8-b2411a6a8744" />
 
 #### Partial Autocorrelation
+<img width="1206" height="600" alt="image" src="https://github.com/user-attachments/assets/be67608f-5346-45d5-b17a-4ed53111b6c8" />
 
 #### Autocorrelation
-
+<img width="1172" height="583" alt="image" src="https://github.com/user-attachments/assets/356999e3-e91e-481e-ad59-06f1c551f3a0" />
 
 ### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
