@@ -57,16 +57,15 @@ plt.show()
 
 # ACF & PACF
 plt.subplot(2, 1, 1)
-plot_acf(X, lags=int(len(X)/4), ax=plt.gca())
+plot_acf(X, lags=50, ax=plt.gca())
 plt.title('Original Data ACF')
 
 plt.subplot(2, 1, 2)
-plot_pacf(X, lags=int(len(X)/4), ax=plt.gca())
+plot_pacf(X, lags=50, ax=plt.gca())
 plt.title('Original Data PACF')
 
 plt.tight_layout()
 plt.show()
-
 # ARMA(1,1)
 
 arma11_model = ARIMA(X, order=(1, 0, 1)).fit()
