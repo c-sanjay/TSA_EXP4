@@ -33,23 +33,18 @@ plot_acf and plot_pacf.
 
 ```
 ### OUTPUT:
-SIMULATED ARMA(1,1) PROCESS:
+#### SIMULATED ARMA(1,1) PROCESS:
 
+#### Partial Autocorrelation
 
+#### Autocorrelation
 
-Partial Autocorrelation
+#### SIMULATED ARMA(2,2) PROCESS:
 
-Autocorrelation
+#### Partial Autocorrelation
 
+#### Autocorrelation
 
-
-SIMULATED ARMA(2,2) PROCESS:
-
-Partial Autocorrelation
-
-
-
-Autocorrelation
 
 ### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
